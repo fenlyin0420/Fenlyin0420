@@ -73,14 +73,10 @@ Here are some ideas to get you started:
 
 ![Fenlyin's github stats](https://github-readme-stats.vercel.app/api/?username=fenlyin0420&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
-
-  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
-    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
   <a href="fenlyin0420@gmail.com">
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/fenlyin0420/fenlyin0420/Icon/bilibili-icon.svg" />
   </a>
-  
+
 <br><br><br><br><br>
 
 # THAT'S ME !
