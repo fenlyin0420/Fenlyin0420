@@ -81,12 +81,8 @@ Here are some ideas to get you started:
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
-<br>
-
-![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
-
-<br><br><br><br>
+<br><br><br><br><br>
 
 # THAT'S ME !
 
-⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
+⭐️ From [Fenlyin0420(mks)](https://github.com/fenlyin0420)
