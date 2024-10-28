@@ -33,12 +33,12 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
+	    <span><strong>Python</strong></span><br><br><br>
         <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
       </td>
       <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+	    <span><strong>Vue.js</strong></span><br><br><br>
+        <img src="./Icon/vuejs-icon.svg" />
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
@@ -68,14 +68,16 @@ Here are some ideas to get you started:
       </td>
     </tr>
 
+
   </tbody>
 </table>
 
 ![Fenlyin's github stats](https://github-readme-stats.vercel.app/api/?username=fenlyin0420&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
   <a href="https://space.bilibili.com/510946671">
-    <img align="left" src="https://raw.githubusercontent.com/fenlyin0420/Fenlyin0420/refs/heads/main/Icon/bilibili-icon.svg" />
-  </a>
+    <img align="left" src="https://raw.githubusercontent.com/fenlyin0420/Fenlyin0420/refs/heads/main/Icon/bilibili-icon.svg" />  </a>
+
+
 
 <br><br><br><br><br>
 
